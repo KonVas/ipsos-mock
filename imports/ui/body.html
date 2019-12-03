@@ -1,0 +1,37 @@
+
+
+<body>
+
+	<div class="container">
+  
+	  <header>
+  
+		<h1>IPSOS Website</h1>
+  
+	  </header>
+  
+   
+  
+	  <ul>
+  
+		{{#each pages}}
+  
+		  {{> site}}
+  
+		{{/each}}
+  
+	  </ul>
+  
+	</div>
+  
+  </body>
+  
+   
+  
+  <template name="site">
+  
+	<li>{{text}}</li>
+  
+  </template>
+  
+  
