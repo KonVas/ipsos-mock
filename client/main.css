@@ -1,4 +1,18 @@
 body {
   padding: 10px;
-  font-family: sans-serif;
+  font-family: Helvetica;
+  background: darkslategrey;
+}
+
+h1 {
+  color: grey;
+}
+
+h2 {
+  color: gainsboro;
+  font-size: large;
+}
+
+a {
+  color: whitesmoke;
 }
