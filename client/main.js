@@ -1,5 +1,5 @@
 import '../imports/startup/client';
-import '../imports/startup/client/ui/site.js';
+import '../imports/startup/client/app/sound/sound.js';
 
 Router.configure({
     layoutTemplate: 'main'
