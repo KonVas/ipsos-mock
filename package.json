@@ -13,7 +13,7 @@
     "core-js": "^3.5.0",
     "express": "^4.17.1",
     "gulp": "^4.0.2",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "load-grunt-tasks": "^5.1.0",
     "meteor-node-stubs": "^0.4.1",
     "meteor-promise": "^0.8.7",
