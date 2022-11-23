@@ -23,7 +23,7 @@
     "popper": "^1.0.1",
     "popper.js": "^1.16.0",
     "scale-value": "^1.0.0",
-    "socket.io": "^2.3.0",
+    "socket.io": "^2.5.0",
     "system": "^2.0.1",
     "tone": "^13.8.25",
     "uws": "^100.0.1",
